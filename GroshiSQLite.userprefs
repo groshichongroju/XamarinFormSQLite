@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E3D9B0EE-24A9-49C2-A41C-B6D4B3BB54A7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GroshiSQLite/DataAccess.cs">
+    <Files>
+      <File FileName="Droid/SQLiteAndroid.cs" Line="13" Column="25" />
+      <File FileName="GroshiSQLite/Employee.cs" Line="11" Column="20" />
+      <File FileName="GroshiSQLite/pages/GroshiSQLitePage.xaml.cs" Line="45" Column="21" />
+      <File FileName="iOS/SQLiteiOS.cs" Line="28" Column="5" />
+      <File FileName="GroshiSQLite/DataAccess.cs" Line="18" Column="9" />
+      <File FileName="GroshiSQLite/pages/ShowEmployees.xaml.cs" Line="26" Column="17" />
+      <File FileName="iOS/Main.cs" Line="12" Column="54" />
+      <File FileName="GroshiSQLite/ISQLiteInterface.cs" Line="8" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GroshiSQLite" expanded="True" selected="True">
+            <Node name="GroshiSQLite" expanded="True">
+              <Node name="pages" expanded="True">
+                <Node name="GroshiSQLitePage.xaml" expanded="True" />
+                <Node name="ShowEmployees.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="GroshiSQLite.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GroshiSQLite.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F49D24D2-EFE7-4C7E-B093-8C925C61C1EC" />
+</Properties>
